@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#define DT_DRV_COMPAT palette_az1uball
+#define DT_DRV_COMPAT zmk_az1uball
 
 #include <zephyr/device.h>
 #include <zephyr/input/input.h>
